@@ -1,2 +1,3 @@
 # Chess-Game
-CHESS-GAME
+
+This is a chess game implemented in C#.
